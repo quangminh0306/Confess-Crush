@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Gửi cho ... <3",
-    introTitle: 'Tên người yêu bạn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    titleWeb: "tmqcutés1tg <3",
+    introTitle: 'hi luuuuuuu!',
+    introDesc: `chào em nha`,
+    btnIntro: 'uci',
+    title: 'em thích anh à🥰',
+    desc: 'nói dối bố đục zô mồm ',
+    btnYes: 'đr,em thích anh <33',
+    btnNo: 'có cl',
+    question: ' sao em lại yêu anh 😎',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    reply: 'vìanh đẹp trai s1tg <33',
+    mess: 'Anh biết mà 🥰. aye 😘�',
+    messDesc: 'nên em sendnude đi =))))',
+    btnAccept: 'dạ',
+    messLink: 'http://fb.com'//profile.php?id=100053049700221
 }
